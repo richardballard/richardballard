@@ -8,7 +8,7 @@
         align-items:center;">
 <img src="https://www.himumsaiddad.com/wp-content/uploads/hmsd-logo-orange.svg" srcset="https://www.himumsaiddad.com/wp-content/uploads/hmsd-logo-orange.svg 1x" width="" height="35" alt="Hi Mum! Said Dad Logo" style="margin-right: 7px;">
 Currently working at <a href="https://www.himumsaiddad.com/" style="margin-left:5px;">Hi Mum! Said Dad</a>
-</div>
+</div><br/>
 
 📝 Check out my blog at <https://richardballard.co.uk/>
 
